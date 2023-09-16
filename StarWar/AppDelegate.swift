@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  StarWar
 //
-//  Created by vinoj randika on 2023-09-14.
+//  Created by Chathuranga Adikari on 2023-09-14.
 //
 
 import UIKit
